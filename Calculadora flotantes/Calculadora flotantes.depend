@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630965640 source:c:\users\administrator\desktop\estructura de datos i programas\calculadora flotantes\main.c
+	<stdio.h>
+	<math.h>
+
